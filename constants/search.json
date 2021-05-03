@@ -1,5 +1,5 @@
 {
-  "phone": [
+  "phones": [
     {
       "key": "OPPO A15",
       "OS": "Android",
@@ -25,7 +25,7 @@
       "Product": "1 Lithium Polymer batteries require"
     }
   ],
-  "laptop": [
+  "laptops": [
     {
       "key": "Asus",
       "OS": "windows",

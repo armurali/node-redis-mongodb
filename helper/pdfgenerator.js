@@ -1,4 +1,5 @@
 const html_to_pdf = require("html-pdf-node");
+const path = require("path");
 
 const generateHTML = (datas) => {
     let html = `<table>`
@@ -28,7 +29,8 @@ const generateHTML = (datas) => {
 const generatePdf = async (datas, filename) => {
   await html_to_pdf.generatePdf(
     { content: generateHTML(datas) },
-    { format: "A4", path: `./public/${filename}.pdf` }
+    { format: "A4", path: path.join(__dirname, '..', `public/${filename}.pdf`) }
+    // { format: "A4", path: `./public/${filename}.pdf` }
   );
 };
 
