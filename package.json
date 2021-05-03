@@ -1,0 +1,27 @@
+{
+  "name": "demo",
+  "version": "1.0.0",
+  "description": "Integration of mongodb, redis and node js.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/armurali/node-redis-mongodb.git"
+  },
+  "author": "Arunkumar Murali",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/armurali/node-redis-mongodb/issues"
+  },
+  "homepage": "https://github.com/armurali/node-redis-mongodb#readme",
+  "dependencies": {
+    "bluebird": "^3.7.2",
+    "express": "^4.17.1",
+    "html-pdf-node": "^1.0.7",
+    "mongoose": "^5.12.7",
+    "node-fetch": "^2.6.1",
+    "redis": "^3.1.2"
+  }
+}

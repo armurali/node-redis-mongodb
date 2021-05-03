@@ -1,0 +1,74 @@
+{
+  "phone": [
+    {
+      "key": "OPPO A15",
+      "OS": "Android",
+      "RAM": "3 GB",
+      "Product": "1 Lithium Polymer batteries require"
+    },
+    {
+      "key": "Vivo A15",
+      "OS": "Android",
+      "RAM": "3 GB",
+      "Product": "1 Lithium Polymer batteries require"
+    },
+    {
+      "key": "Nokia A15",
+      "OS": "Android",
+      "RAM": "3 GB",
+      "Product": "1 Lithium Polymer batteries require"
+    },
+    {
+      "key": "Mi A15",
+      "OS": "Android",
+      "RAM": "3 GB",
+      "Product": "1 Lithium Polymer batteries require"
+    }
+  ],
+  "laptop": [
+    {
+      "key": "Asus",
+      "OS": "windows",
+      "RAM": "8 GB",
+      "Product": "6 Lithium Polymer batteries require"
+    },
+    {
+      "key": "honor",
+      "OS": "windows",
+      "RAM": "8 GB",
+      "Product": "6 Lithium Polymer batteries require"
+    },
+    {
+      "key": "hp",
+      "OS": "windows",
+      "RAM": "8 GB",
+      "Product": "6 Lithium Polymer batteries require"
+    },
+    {
+      "key": "dell",
+      "OS": "windows",
+      "RAM": "8 GB",
+      "Product": "6 Lithium Polymer batteries require"
+    }
+  ],
+  "default": [
+    {
+      "key": "OPPO A15",
+      "OS": "Android",
+      "RAM": "3 GB",
+      "Product": "1 Lithium Polymer batteries require"
+    },
+    {
+      "key": "Asus",
+      "OS": "windows",
+      "RAM": "8 GB",
+      "Product": "6 Lithium Polymer batteries require"
+    },
+    {
+      "key": "Mi A15",
+      "OS": "Android",
+      "RAM": "3 GB",
+      "Product": "1 Lithium Polymer batteries require"
+    }
+  ]
+}
